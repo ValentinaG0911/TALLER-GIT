@@ -1,6 +1,6 @@
 body {
-    background-color: #ff87ef;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #eb1fd0;
+    font-family: cursive;
 }
 
 h1 {
@@ -8,8 +8,8 @@ h1 {
 }
 
 .button-1 {
-    background: #6e65e7;
-    color: #040404;
+    background: #0cc7be;
+    color: #fdfcfc;
     display: inline-block;
     font-size: 15px;
     margin: 15px;
